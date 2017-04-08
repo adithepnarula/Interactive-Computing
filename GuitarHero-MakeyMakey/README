@@ -1,3 +1,1 @@
-This is a Guitar Hero based game built in Processing. A particle system class is created to emit particle objects to one of the four targets.
-When the particle is inside the target, player can press the key 'a', 's', 'd', or 'f' to capture the partcie. 
-If the player captures it on time, points are tallied. This game is built can easily be connected to the Makey-Makey!
+This is a Guitar Hero based game built in Processing. A particle system class is created to emit particle objects to one of the four targets. When the particle is inside the target, player can press the key 'a', 's', 'd', or 'f' to capture the partcie. If the player captures it on time, points are tallied. This game is built can easily be connected to the Makey-Makey!
